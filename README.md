@@ -2,7 +2,7 @@
 A playable implementation of European Chess and Xiangqi done using Java\
 Note: This was a project for CSDS 132 - Introduction to Programming in Java\
 Note 2: The author Harold Connamacher contributed to some of the classes for this project\
-\
+
 # How to run the project
 1. Navigate to the directory the following directory in your project structure: "[project_directory]/out/artifacts"
 2. There should be two folders in this directory. Each contains a .jar file labeled with the graphics library it is created with
